@@ -7,8 +7,8 @@
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=soham485)
-![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
+- ![](https://komarev.com/ghpvc/?username=soham485)
+- ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
 ## Links
 
