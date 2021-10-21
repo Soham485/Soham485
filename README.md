@@ -11,6 +11,6 @@
 
 ## Links
 
-[website](https://github.com/soham485)
-[youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
-[discord](https://discord.com/invite/aEBxQnZE6B)
+![website](https://github.com/soham485)
+![youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
+![discord](https://discord.com/invite/aEBxQnZE6B)
