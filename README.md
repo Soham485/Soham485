@@ -13,5 +13,3 @@
 
 - [GitHub](https://github.com/soham485)
 - [Youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
-- Discord
-![](https://discord.com/widget?id=859038936160927764&theme=dark")
