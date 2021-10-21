@@ -7,3 +7,9 @@
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=radical)
+
+## Links
+
+[website]: https://github.com/soham485
+[youtube]: https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg
+[discord]: https://discord.com/invite/aEBxQnZE6B
