@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Soham485!
+# 👋 Hi, I’m Soham!
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
