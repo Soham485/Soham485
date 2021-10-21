@@ -11,7 +11,7 @@
 
 ## Links
 
-[GitHub](https://github.com/soham485)
-[Youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
-Discord
-![<iframe src="https://discord.com/widget?id=859038936160927764&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>](https://discord.gg/aEBxQnZE6B)
+- [GitHub](https://github.com/soham485)
+- [Youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
+- Discord
+![https://discord.com/api/guilds/859038936160927764/widget.json](https://discord.gg/aEBxQnZE6B)
