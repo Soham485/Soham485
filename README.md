@@ -14,5 +14,5 @@
 - [GitHub](https://github.com/soham485)
 - [Youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
 - Discord
-![Discord Banner 4](https://discordapp.com/api/guilds/859038936160927764/widget.png?style=banner4)
+- ![https://discordapp.com/api/guilds/859038936160927764/widget.png?style=banner4](https://discord.com/invite/aEBxQnZE6B)
 
