@@ -2,14 +2,15 @@
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an youtuber!
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
 ## Links
 
-[website]: https://github.com/soham485
-[youtube]: https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg
-[discord]: https://discord.com/invite/aEBxQnZE6B
+[website](https://github.com/soham485)
+[youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
+[discord](https://discord.com/invite/aEBxQnZE6B)
