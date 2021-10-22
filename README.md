@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Soham!
 
-<img src="https://data.whicdn.com/images/341002571/original.gif" align="centre">
+<img src="https://data.whicdn.com/images/341002571/original.gif" align="center">
 
 ## About me
 
