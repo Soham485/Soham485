@@ -5,6 +5,7 @@
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
 - 😄 Pronouns: He/Him
+- 💕 I like: Books, manga and Anime!
 - ⚡ Fun fact: I am an youtuber!
 
 ## 🚀 I know 🚀
