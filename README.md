@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Soham!
 
+<img src="https://data.whicdn.com/images/341002571/original.gif" align="centre">
+
+## About me
+
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
 - 😄 Pronouns: He/Him
@@ -13,7 +17,6 @@
 
 ## Social
 <img src="https://data.whicdn.com/images/290365239/original.gif" align="right">
-
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soham485)
 
