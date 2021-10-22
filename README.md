@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Soham!
+<img src="https://data.whicdn.com/images/341002571/original.gif" align="right">
+
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
@@ -6,12 +8,14 @@
 - ⚡ Fun fact: I am an youtuber!
 
 ## Stats
+<img src="https://c.tenor.com/2NdXtMCi66IAAAAM/night-sky.gif" align="right">
+
 
 ![](https://komarev.com/ghpvc/?username=soham485)
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
-## Links
+## Social
 <img src="https://data.whicdn.com/images/290365239/original.gif" align="right">
 
 
