@@ -9,6 +9,7 @@
 
 ## 🚀 I know 🚀
 
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 I know to code in python + discord.py! I can edit in photoshop and animate a bit!
   
 ## 🗻 Stats 🗻
