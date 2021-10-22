@@ -21,8 +21,11 @@
 
 <p align="center"><a href="https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></p>
 
+<p align="center"><a href="https://open.spotify.com/user/acn27fw21kmh6unwvut51l83l" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a></p> 
+
 <p align="center"><a href="https://discord.gg/aEBxQnZE6B" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 
 <p align="center"><a href="https://steamcommunity.com/profiles/76561199203003090/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a></p> 
+
 
 
