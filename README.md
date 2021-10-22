@@ -12,7 +12,7 @@
 
 ## Links
 
-- [GitHub](https://github.com/soham485)
+- [![][GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soham485)
 - [Youtube](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
 - [![Discord Banner 4](https://discordapp.com/api/guilds/859038936160927764/widget.png?style=banner4)](https://discord.gg/aEBxQnZE6B)
 
