@@ -22,6 +22,6 @@
 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
 
-[![](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aEBxQnZE6B)
+<p align="center"><a href="https://discord.gg/aEBxQnZE6B" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 
 
