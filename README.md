@@ -12,6 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
 ## Links
+<img style="float: right;" src="https://data.whicdn.com/images/290365239/original.gif">
+
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soham485)
 
