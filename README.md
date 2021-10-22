@@ -1,6 +1,8 @@
 # **👋 Hi, I’m Soham!**
 
-<img src="https://data.whicdn.com/images/341002571/original.gif" align="center">
+<p align="center">
+  <img width="460" height="300" src="https://data.whicdn.com/images/341002571/original.gif">
+</p>
 
 ## **🌸 About me**
 
@@ -18,8 +20,10 @@
 ## **🍨 Social**
 <img src="https://data.whicdn.com/images/290365239/original.gif" align="right">
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soham485) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soham485) 
 
-              [![](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aEBxQnZE6B)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2CE5AfflIzhZCNJv5Qdkjg)
+
+[![](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aEBxQnZE6B)
 
 
