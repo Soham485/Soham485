@@ -11,7 +11,6 @@
 
 ![](https://komarev.com/ghpvc/?username=soham485)
 
-<img src="https://c.tenor.com/2NdXtMCi66IAAAAM/night-sky.gif" align="right">
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
