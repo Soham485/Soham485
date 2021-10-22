@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Soham! 👋
 
 ## 🌸 About me 🌸
-<img src="https://c.tenor.com/-SIywyATmagAAAAC/naruto-thumbsup.gif" align="right">
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
