@@ -7,10 +7,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an youtuber!
 
+<function>
 ## 🚀 I know 🚀
 
 I know to code in python + discord.py! I can edit in photoshop and animate a bit!
-
+</function>
+  
 ## 🗻 Stats 🗻
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
