@@ -7,11 +7,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an youtuber!
 
-<function>
+<details>
 ## 🚀 I know 🚀
 
 I know to code in python + discord.py! I can edit in photoshop and animate a bit!
-</function>
+</details>
   
 ## 🗻 Stats 🗻
 
