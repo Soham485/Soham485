@@ -10,6 +10,11 @@
 - ![](https://komarev.com/ghpvc/?username=soham485)
 - ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  <img align="left" alt="SOham's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight" />
+
 ## Links
 
 - [GitHub](https://github.com/soham485)
