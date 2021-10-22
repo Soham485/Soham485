@@ -1,19 +1,13 @@
 # 👋 Hi, I’m Soham!
-<img src="https://data.whicdn.com/images/341002571/original.gif" align="right">
-
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an youtuber!
 
-
-
-
 ## Stats
 
 ![](https://komarev.com/ghpvc/?username=soham485)
-
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
