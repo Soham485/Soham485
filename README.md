@@ -1,7 +1,7 @@
 # **👋 Hi, I’m Soham!**
 
 <p align="center">
-  <img width="460" height="300" src="https://data.whicdn.com/images/341002571/original.gif">
+  <img width="400" height="270" src="https://data.whicdn.com/images/341002571/original.gif">
 </p>
 
 ## **🌸 About me**
