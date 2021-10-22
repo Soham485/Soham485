@@ -19,5 +19,5 @@
 
 [![Discord Banner 4](https://discordapp.com/api/guilds/859038936160927764/widget.png?style=banner4)](https://discord.gg/aEBxQnZE6B)
 
-<img style="float: right;" src="https://data.whicdn.com/images/290365239/original.gif">
+<img style="allign: right;" src="https://data.whicdn.com/images/290365239/original.gif">
 
