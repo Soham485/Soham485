@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-## 🌸 About me 🌸
+<h2>🌸 About me 🌸</h2>
 </div>
 
 - 🔭 I’m currently learning python and weak AI!
@@ -12,19 +12,25 @@
 - 💕 I like: Books, manga and Anime!
 - ⚡ Fun fact: I am an youtuber!
 
-## 🚀 I know 🚀
+<div align="center">
+<h2>🚀 I know 🚀</h2>
+</div>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
 I know to code in python(+ discord.py) and a bit of web development(HTML mostly, I'm trash in JS and CSS)! I can edit in photoshop and animate a bit!
-  
-## 🗻 Stats 🗻
+
+<div align="center">
+<h2>## 🗻 Stats 🗻</h2>
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
-## 🍜 Social 🍜
+<div align="center">
+<h2>🍜 Social 🍜</h2>
+</div>
 <img src="https://data.whicdn.com/images/290365239/original.gif" align="right">
 
 <center>~ 🚇 You can subscribe if you want! 🚇 ~</center>
