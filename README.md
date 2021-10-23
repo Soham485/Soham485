@@ -2,7 +2,9 @@
 <h1>👋 Hi, I’m Soham! 👋</h1>
 </div>
 
+<div align="center">
 ## 🌸 About me 🌸
+</div>
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
