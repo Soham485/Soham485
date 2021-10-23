@@ -1,4 +1,4 @@
-<center># 👋 Hi, I’m Soham! 👋</center>
+# <center>👋 Hi, I’m Soham! 👋</center>
 
 <center>## 🌸 About me 🌸</center>
 
