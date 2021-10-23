@@ -1,5 +1,6 @@
 <div align="center">
 <h1>👋 Hi, I’m Soham! 👋</h1>
+<img src="https://c.tenor.com/FvthnLepGgAAAAAM/hi-hello.gif">
 </div>
 
 <div align="center">
