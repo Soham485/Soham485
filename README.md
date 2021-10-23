@@ -6,7 +6,6 @@
 <div align="center">
 <h2>🌸 About me 🌸</h2>
 </div>
-<img src="https://c.tenor.com/SpDpac3s-ccAAAAM/anime-boy.gif" align="right">
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
