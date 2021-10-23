@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi, I’m Soham! 👋</center></h1>
+<h1>👋 Hi, I’m Soham! 👋</h1>
 </div>
 
 ## 🌸 About me 🌸
