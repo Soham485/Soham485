@@ -1,6 +1,6 @@
 <h1><center>👋 Hi, I’m Soham! 👋</center></h1>
 
-## 🌸 About me 🌸
+<h2><center>🌸 About me 🌸</center></h2>
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
