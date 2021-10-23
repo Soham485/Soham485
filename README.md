@@ -7,12 +7,11 @@
 <h2>🌸 About me 🌸</h2>
 </div>
 
+- 🔭 I’m currently learning python and weak AI!
+- 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
 <div align="right">
 <img src="https://c.tenor.com/-22sug1aXrwAAAAC/anime-boy.gif">
 </div>
-
-- 🔭 I’m currently learning python and weak AI!
-- 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
 - 😄 Pronouns: He/Him
 - 💕 I like: Books, manga and Anime!
 - ⚡ Fun fact: I am an youtuber!
