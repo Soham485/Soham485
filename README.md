@@ -1,6 +1,6 @@
-# <center>👋 Hi, I’m Soham! 👋</center>
+<h1><center>👋 Hi, I’m Soham! 👋</center></h1>
 
-## <center>🌸 About me 🌸</center>
+## 🌸 About me 🌸
 
 - 🔭 I’m currently learning python and weak AI!
 - 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
@@ -8,7 +8,7 @@
 - 💕 I like: Books, manga and Anime!
 - ⚡ Fun fact: I am an youtuber!
 
-<center>## 🚀 I know 🚀</center>
+## 🚀 I know 🚀
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,11 +16,11 @@
 
 I know to code in python(+ discord.py) and a bit of web development(HTML mostly, I'm trash in JS and CSS)! I can edit in photoshop and animate a bit!
   
-<center>## 🗻 Stats 🗻</center>
+## 🗻 Stats 🗻
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
-<center>## 🍜 Social 🍜</center>
+## 🍜 Social 🍜
 <img src="https://data.whicdn.com/images/290365239/original.gif" align="right">
 
 <center>~ 🚇 You can subscribe if you want! 🚇 ~</center>
