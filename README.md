@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
-![](https://aleen42.github.io/badges/src/after_effects.svg)
 
 
 I know to code in python(+ discord.py) and a bit of web development(HTML mostly, I'm trash in JS and CSS)! I can edit in photoshop and many video editors, illustrate and animate a bit!
