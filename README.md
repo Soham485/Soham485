@@ -23,7 +23,7 @@
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
 
 
-I know to code in python(+ discord.py) and a bit of web development(HTML mostly, I'm trash in JS and CSS)! I can edit in photoshop and many video editors, illustrate and animate a bit!
+I know to code in python(+ discord.py) and a bit of web development! I can edit in photoshop and many video editors, and animate a bit!
 
 <div align="center">
 <h2>🗻 Stats 🗻</h2>
