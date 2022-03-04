@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
-I know to code in python(+ discord.py) and a bit of web development! I can edit in photoshop and many video editors, and animate a bit!
+I know to code in python and a bit of web development! I can edit in photoshop, edit videos, and animate!
 
 <div align="center">
 <h2>🗻 Stats 🗻</h2>
