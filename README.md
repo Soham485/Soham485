@@ -29,8 +29,9 @@ I know to code in python(+ discord.py) and a bit of web development! I can edit 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
 <div align="center">
-<h2>🚇 Linktree (All my links) 🚇</h2>
+<h2>🚄 Socials 🚄</h2>
 </div>
 <img src="https://data.whicdn.com/images/290365239/original.gif" align="right">
 
+Linktree (All my links) 
 <p align="center"><a href="https://linktr.ee/SohamTheWeeb" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a></p>
