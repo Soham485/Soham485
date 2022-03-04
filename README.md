@@ -19,8 +19,6 @@
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://aleen42.github.io/badges/src/photoshop.svg)
-![](https://aleen42.github.io/badges/src/illustrator.svg)
 
 
 I know to code in python(+ discord.py) and a bit of web development! I can edit in photoshop and many video editors, and animate a bit!
