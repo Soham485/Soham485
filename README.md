@@ -29,7 +29,7 @@ I know to code in python and a bit of web development! I can edit in photoshop, 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
 <div align="center">
-<h2>🚄 Linktree (All my links) 🚄</h2>
+<h2>🚄 Socials 🚄</h2>
 </div>
 <img src="https://data.whicdn.com/images/290365239/original.gif" align="right">
 
