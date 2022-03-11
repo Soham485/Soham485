@@ -6,8 +6,7 @@
 <h2>🌸 About me 🌸</h2>
 </div>
 
-- 🔭 I’m currently **webdevelopment**!
-- 🤖 I have coded a few discord bots like **[PixL](https://discordbotlist.com/bots/pixl)**!
+- 🔭 I’m currently learning **web-development**!
 - 😄 Pronouns: He/Him
 - 💕 I like: Books, manga and Anime!
 - ⚡ Fun fact: I am an **youtuber and an artist**!
