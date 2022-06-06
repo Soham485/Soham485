@@ -63,7 +63,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Soham485&show_icons=true&hide_border=true&theme=tokyonight)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/Soham485/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
 <h2>🚄 Socials 🚄</h2>
