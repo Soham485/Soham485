@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning **web-development**!
 - 😄 Pronouns: He/Him
 - 💕 I like: Books, manga and Anime!
-- ⚡ Fun fact: I am an **youtuber and an artist**!
+- ⚡ Fun fact: I'm an **youtuber and an artist**!
 
 <div align="center">
 <h2>🚀 I know 🚀</h2>
